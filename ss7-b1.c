@@ -5,7 +5,7 @@ int main(){
 	int i;
 	for(i=0;i<size;i++){
 		printf("%d\n", array[i]);
-}
+    }
 	printf("Do dai cua mang la: %d",size);
 	return 0;
 }
